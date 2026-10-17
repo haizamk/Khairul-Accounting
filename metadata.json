@@ -1,0 +1,6 @@
+{
+  "name": "Khairul Fresh Accounting",
+  "description": "A modern, professional double-entry accounting and financial management application built for businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
